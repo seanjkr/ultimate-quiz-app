@@ -5,10 +5,12 @@
   <form [formGroup] = "form">
 
     <div class = "form-group">
+
       <label *ngFor = "let choice of question.choices">
         <input type = "radio" [value] = "choice" formControlName = "choice">
         <span> {{ choice.value }} </span>
       </label>
+
     </div>
     
   </form>

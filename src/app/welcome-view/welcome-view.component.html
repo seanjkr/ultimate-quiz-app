@@ -1,0 +1,33 @@
+<div *ngIf = "!quizList" class = "spinner-grow text-primary" > </div>
+
+<div *ngIf = "quizList" class  = "welcome">
+
+  <div>
+    <h1 class = "title mat-display-1"> Quizzes : </h1>
+  </div>
+
+  <div>
+    
+    <ul>
+
+      <li *ngFor = "let quizItem of quizList">
+
+        <mat-card class = "quiz-card">
+
+          <mat-card-title> {{ quizItem.name }} </mat-card-title>
+          <mat-card-content> {{ quizItem.description }} </mat-card-content>
+          <mar-card-actions>
+            <button type = "button" routerLink = "/{{quizItem.label}}">
+              Select
+            </button>
+          </mar-card-actions>
+
+        </mat-card>
+
+      </li>
+
+    </ul>
+
+  </div>
+
+</div>

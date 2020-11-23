@@ -11,7 +11,7 @@ import { Question } from '../quiz.model';
 export class QuestionFormComponent implements OnInit {
 
   @Input() question : Question;
-  @Output() onChoiceMade = new EventEmitter <string>();
+  @Output() onChoiceMade = new EventEmitter <string> ();
 
   private form: FormGroup;
 

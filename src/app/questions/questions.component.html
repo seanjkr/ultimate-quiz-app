@@ -1,0 +1,20 @@
+<div *ngIf = "!questions" class = "spinner-grow text-primary"></div>
+
+<div *ngIf = "questions" class = "quiz">
+
+  <div class = "questions" *ngIf = "!showResults">
+    <app-question-form
+      [question] = "questions[currentQuestionIndex]"
+      (onChoiceMade) = "updateChoice($event)">
+    </app-question-form>
+
+    <button
+      class = "btn btn-success"
+      (click) = "nextOrViewResults()"
+      [disabled] = "!answers.values[currentQuestionIndex]"
+    >{{ currentQuestionIndex === questions.length - 1 ? 'View results' : 'Next' }}</button>
+  </div>
+
+  <app-results *ngIf = "showResults" [answers] = "answers"></app-results>
+  
+</div>
