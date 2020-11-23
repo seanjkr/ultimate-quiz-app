@@ -7,10 +7,12 @@ import { CommonModule } from '@angular/common';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatCardModule } from '@angular/material/card';
+import { MatButtonModule } from '@angular/material/button';
+import { MatRadioModule } from '@angular/material/radio';
 
 import { AppComponent } from './app.component';
-import { QuestionFormComponent } from './question-form/question-form.component';
 import { ResultsComponent } from './results/results.component';
+import { QuestionFormComponent } from './question-form/question-form.component';
 import { QuestionsComponent } from './questions/questions.component';
 import { WelcomeComponent } from './welcome-view/welcome-view.component';
 
@@ -37,7 +39,9 @@ const appRoutes: Routes = [
     CommonModule,
     RouterModule.forRoot(appRoutes),
     BrowserAnimationsModule,
-    MatCardModule
+    MatCardModule,
+    MatButtonModule,
+    MatRadioModule
   ],
 
   providers : [],

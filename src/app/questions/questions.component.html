@@ -9,7 +9,7 @@
     </app-question-form>
 
     <button
-      class = "btn btn-success"
+      mat-stroked-button
       (click) = "nextOrViewResults()"
       [disabled] = "!answers.values[currentQuestionIndex]"
     >{{ currentQuestionIndex === questions.length - 1 ? 'View results' : 'Next' }}</button>
