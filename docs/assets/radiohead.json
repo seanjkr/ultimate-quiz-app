@@ -1,0 +1,101 @@
+[
+  {
+    "label": "How many studio albums has Radiohead released?",
+    "choices": [
+      {"value": "9", "correct": true},
+      {"value": "10", "correct": false},
+      {"value": "7", "correct": false},
+      {"value": "6", "correct": false}
+    ]
+  },
+  {
+    "label": "What is the name of Radiohead's 2nd Studio Album?",
+    "choices": [
+      {"value": "Ok Computer", "correct": false},
+      {"value": "The Bends", "correct": true},
+      {"value": "Pablo Honey", "correct": false},
+      {"value": "Kid A", "correct": false}
+    ]
+  },
+  {
+    "label": "Which of these excerpts is featured in the song 'Paranoid Android'?",
+    "choices": [
+      {"value": "Cut out his eyes, man.", "correct": false},
+      {"value": "I'm a paranoid android", "correct": false},
+      {"value": "God loves his children", "correct": true},
+      {"value": "Extermination, extermination", "correct": false}
+    ]
+  },
+  {
+    "label": "What was the original name of the song 'Planet Telex'?",
+    "choices": [
+      {"value": "Planet Zero", "correct": false},
+      {"value": "Planet Xerox", "correct": true},
+      {"value": "Nude", "correct": false},
+      {"value": "Starship Hardship", "correct": false}
+    ]
+  },
+  {
+    "label": "Which of these lines is NOT featured in the song 'Idioteque'?",
+    "choices": [
+      {"value": "Take the money and run", "correct": false},
+      {"value": "I'll laugh until my head comes off", "correct": false},
+      {"value": "Ice age coming", "correct": false},
+      {"value": "Get to the bunker", "correct": true}
+    ]
+  },
+  {
+    "label": "In America, 'Creep' was very popular. Which song had the same degree of popularity in Britain?",
+    "choices": [
+      {"value": "The Bends", "correct": false},
+      {"value": "High and Dry", "correct": false},
+      {"value": "Street Spirit (Fade Out)", "correct": true},
+      {"value": "Ripcord", "correct": false}
+    ]
+  },
+  {
+    "label": "What is featured on the cover of the 'Bones' promo?",
+    "choices": [
+      {"value": "The 'No Data' Logo", "correct": false},
+      {"value": "The 'Against Demons' Logo", "correct": false},
+      {"value": "The 'The High and Dry Astronaut' Logo", "correct": true},
+      {"value": "A picture of a graveyard", "correct": false}
+    ]
+  },
+  {
+    "label": "What is the name of the first song Thom ever wrote?",
+    "choices": [
+      {"value": "Tone of Voice", "correct": false},
+      {"value": "Fitter, Happier", "correct": false},
+      {"value": "Prelude", "correct": false},
+      {"value": "Mushroom Cloud", "correct": true}
+    ]
+  },
+  {
+    "label": "From which song does this line come? 'Floating above the surface for the birds.'",
+    "choices": [
+      {"value": "Maquiladora", "correct": false},
+      {"value": "Kinetic", "correct": false},
+      {"value": "Talk Show Host", "correct": true},
+      {"value": "Pearly", "correct": false}
+    ]
+  },
+  {
+    "label": "In the song 'Bodysnatchers', which of the following lines is sung twice in a row?",
+    "choices": [
+      {"value": "Has the light gone out for you", "correct": true},
+      {"value": "It is the 21st century", "correct": false},
+      {"value": "I have no idea what I'm talking about", "correct": true},
+      {"value": "I'm a lie", "correct": false}
+    ]
+  },
+  {
+    "label": "Which of these songs doesn't feature its title in the song itself?",
+    "choices": [
+      {"value": "Myxomatosis", "correct": false},
+      {"value": "Sulk", "correct": true},
+      {"value": "Planet Telex", "correct": false},
+      {"value": "Jigsaw Falling into Place", "correct": false}
+    ]
+  }
+]

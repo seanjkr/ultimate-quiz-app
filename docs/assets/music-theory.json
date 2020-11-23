@@ -1,0 +1,201 @@
+[
+  {
+    "label": "Presto, largo, allegro - these terms, amongst many others, relate to what property of music?",
+    "choices": [
+      {"value": "Tempo", "correct": true},
+      {"value": "Volume / Dynamics", "correct": false},
+      {"value": "Timbre", "correct": false},
+      {"value": "Harmony", "correct": false}
+    ]
+  },
+  {
+    "label": "In the system of written Western musical notation, five lines drawn horizontally across a sheet of music are known collectively as:",
+    "choices": [
+      {"value": "The clef", "correct": false},
+      {"value": "The staff", "correct": true},
+      {"value": "The ledger", "correct": false},
+      {"value": "The pitch", "correct": false}
+    ]
+  },
+  {
+    "label": "On a staff, a notehead is usually represented by which of the following shapes?",
+    "choices": [
+      {"value": "A triangle", "correct": false},
+      {"value": "A rectangle", "correct": false},
+      {"value": "An oval", "correct": true},
+      {"value": "A bar", "correct": false}
+    ]
+  },
+  {
+    "label": "Which of the following is the name assigned to the symbol at the beginning of the staff that is used to determine the pitch of a particular line?",
+    "choices": [
+      {"value": "Grand Staff", "correct": false},
+      {"value": "Clef", "correct": true},
+      {"value": "Ledger", "correct": false},
+      {"value": "Flag", "correct": false}
+    ]
+  },
+  {
+    "label": "Which of the following is the term used to describe a small line that extends the musical staff above or below and that is drawn parallel to the staff across a notehead and sometimes across the note stem?",
+    "choices": [
+      {"value": "Stave", "correct": false},
+      {"value": "Accidental", "correct": false},
+      {"value": "Octave", "correct": false},
+      {"value": "Ledger Line", "correct": true}
+    ]
+  },
+  {
+    "label": "What is concert pitch in Hz?",
+    "choices": [
+      {"value": "660 Hz", "correct": false},
+      {"value": "500 Hz", "correct": false},
+      {"value": "442 Hz", "correct": false},
+      {"value": "440 Hz", "correct": true}
+    ]
+  },
+  {
+    "label": "Vocals without the accompaniment of instruments are said to be in which style?",
+    "choices": [
+      {"value": "A cappella", "correct": true},
+      {"value": "Oratorio", "correct": false},
+      {"value": "Castrato", "correct": false},
+      {"value": "Cantata", "correct": false}
+    ]
+  },
+  {
+    "label": "Which of the following is the parallel minor of C major?",
+    "choices": [
+      {"value": "C Major", "correct": false},
+      {"value": "A Minor", "correct": false},
+      {"value": "C Minor", "correct": true},
+      {"value": "C# Minor", "correct": false}
+    ]
+  },
+  {
+    "label": "The smallest musical interval (the distance between two adjacent notes) is known as:",
+    "choices": [
+      {"value": "A Major Third", "correct": false},
+      {"value": "A Whole Tone", "correct": false},
+      {"value": "A Semitone", "correct": true},
+      {"value": "A First", "correct": false}
+    ]
+  },
+  {
+    "label": "In general terms, if a singer is singing an octave above their normal range, what technique are they using?",
+    "choices": [
+      {"value": "Tessitura", "correct": false},
+      {"value": "Falsetto", "correct": true},
+      {"value": "Basso profondo", "correct": false},
+      {"value": "Dolcissimo", "correct": false}
+    ]
+  },
+  {
+    "label": " If a piece required a violinist to play in the pizzicato style, what would they be doing?",
+    "choices": [
+      {"value": "Gradually getting quieter", "correct": false},
+      {"value": "Playing as fast as they can", "correct": false},
+      {"value": "Plucking the strings", "correct": true},
+      {"value": "Playing close to the bridge", "correct": false}
+    ]
+  },
+  {
+    "label": " A 7th chord built on the 2nd degree of a major scale will be what quality?",
+    "choices": [
+      {"value": "Dominant 7th", "correct": false},
+      {"value": "Minor 7 b5", "correct": false},
+      {"value": "Minor 7th", "correct": true},
+      {"value": "Major 7th", "correct": false}
+    ]
+  },
+  {
+    "label": "Playing the notes of a chord one after the other, going up or coming down (as opposed to all at once) is an example of what?",
+    "choices": [
+      {"value": "Maggiore", "correct": false},
+      {"value": "Arpeggio", "correct": true},
+      {"value": "Tacet", "correct": false},
+      {"value": "Coda", "correct": false}
+    ]
+  },  
+  {
+    "label": "What term would refer to a smooth join between consecutive notes?",
+    "choices": [
+      {"value": "Lacuna", "correct": false},
+      {"value": "Lacrimoso", "correct": false},
+      {"value": "Legato", "correct": true},
+      {"value": "Libretto", "correct": false}
+    ]
+  },
+  {
+    "label": "Which of the following is the relative minor of D major?",
+    "choices": [
+      {"value": "D minor", "correct": true},
+      {"value": "B minor", "correct": false},
+      {"value": "A# minor", "correct": false},
+      {"value": "Bb minor", "correct": false}
+    ]
+  },
+  {
+    "label": "The harmonic minor is different from the natural minor because it has a(n):",
+    "choices": [
+      {"value": "Missing note", "correct": false},
+      {"value": "Extra note", "correct": false},
+      {"value": "Lowered sixth degree", "correct": false},
+      {"value": "Raised 7th degree", "correct": true}
+    ]
+  },
+  {
+    "label": "What are the chord progressions used in a plagal cadence?",
+    "choices": [
+      {"value": "(V) - (I)", "correct": false},
+      {"value": "(I) - (IV)", "correct": false},
+      {"value": "(V) - (vi)", "correct": false},
+      {"value": "(IV) - (I)", "correct": true}
+    ]
+  },
+  {
+    "label": "In what situation would a note be written as ♯9 instead of ♭3?",
+    "choices": [
+      {"value": "F# / Gb added to a C chord", "correct": false},
+      {"value": "F# / Gb added to a Eb minor chord", "correct": false},
+      {"value": "D# / Eb added to a C7 chord", "correct": true},
+      {"value": "A# / Bb added to a Gm7 chord", "correct": false}
+    ]
+  },
+  {
+    "label": "What is the result of adding a minor seventh to a major triad?",
+    "choices": [
+      {"value": "Dominant 7th chord", "correct": true},
+      {"value": "Major 7th chord", "correct": false},
+      {"value": "Minor 7th chord", "correct": false},
+      {"value": "Augmented 7th chord", "correct": false}
+    ]
+  },
+  {
+    "label": "In modern tuning systems, how many cents are in a semitone? (A to A♯)",
+    "choices": [
+      {"value": "80 cents", "correct": false},
+      {"value": "100 cents", "correct": true},
+      {"value": "10 cents", "correct": false},
+      {"value": "120 cents", "correct": false}
+    ]
+  },  
+  {
+    "label": "Diminuendo means getting quieter, and ritardando means getting slower, but which of these terms combines the two and slows a piece while also bringing the volume down?",
+    "choices": [
+      {"value": "Contralto", "correct": false},
+      {"value": "Cantabile", "correct": false},
+      {"value": "Calando", "correct": true},
+      {"value": "Colossale", "correct": false}
+    ]
+  },
+  {
+    "label": "What is the composition structure of Sonata-Allegro form?",
+    "choices": [
+      {"value": "Exposition, Development, Concerto", "correct": false},
+      {"value": "Intro, Development, Conclusion", "correct": false},
+      {"value": "Recapitulation, Development, Exposition", "correct": false},
+      {"value": "Exposition, Development, Recapitulation", "correct": true}
+    ]
+  }
+
+]

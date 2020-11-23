@@ -1,0 +1,14 @@
+[
+  {
+    "label" : "radiohead",
+    "name" : "Radiohead",
+    "description" : "The ultimate quiz of all things Radiohead",
+    "fileName" : "radiohead.json"
+  },
+  {
+    "label" : "music-theory",
+    "name" : "Music Theory",
+    "description" : "A quiz on the basics of music theory",
+    "fileName" : "music-theory.json"
+  }
+]
